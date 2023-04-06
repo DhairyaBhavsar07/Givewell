@@ -40,7 +40,7 @@ This Web app targets two categories of users: Donors and NGOs.
 <img width="882" alt="Screenshot 2023-04-06 at 11 03 30 PM" src="https://user-images.githubusercontent.com/96867564/230453601-70baeaad-afab-4451-b458-18d531c72d4a.png">
 
 2. NGO details page
-![Uploading Screenshot 2023-04-06 at 11.06.25 PM.png…]()
+<img width="1710" alt="Screenshot 2023-04-06 at 11 48 25 PM" src="https://user-images.githubusercontent.com/96867564/230462449-e632203a-4bb8-4624-9e9c-97f4931ddcb4.png">
 <img width="1710" alt="Screenshot 2023-04-06 at 11 11 01 PM" src="https://user-images.githubusercontent.com/96867564/230455084-3c20f018-9900-4dad-a214-738d907186ad.png">
 
 3. For you page for NGOS
