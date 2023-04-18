@@ -34,14 +34,14 @@ This Web app targets two categories of users: Donors and NGOs.
 2. NGO details page
 <img width="1710" alt="Screenshot 2023-04-18 at 11 52 22 PM" src="https://user-images.githubusercontent.com/96867564/232872774-dd5c4843-2aa1-499e-bc7d-b65fe6a3edca.png">
 <img width="1710" alt="Screenshot 2023-04-18 at 11 52 34 PM" src="https://user-images.githubusercontent.com/96867564/232872850-8216a34a-1ffb-40de-b990-e9440abb0df1.png">
-<img width="1710" alt="Screenshot 2023-04-18 at 11 54 48 PM" src="https://user-images.githubusercontent.com/96867564/232872869-62e178af-42c3-4cb1-995f-5775aa3e48df.png">
+<img width="1710" alt="Screenshot 2023-04-18 at 11 54 48 PM" src="https://user-images.githubusercontent.com/96867564/232874587-c03d629d-608b-47c9-b307-dd8533ffa0b6.png">
 
 3. For you page for NGOS
 <img width="1710" alt="Screenshot 2023-04-19 at 12 00 15 AM" src="https://user-images.githubusercontent.com/96867564/232872968-564b1cde-c26c-4d82-97d8-6dcf68683866.png">
 <img width="1710" alt="Screenshot 2023-04-19 at 12 00 37 AM" src="https://user-images.githubusercontent.com/96867564/232872990-6abe0ce6-55aa-4bfa-8ce1-ecb5b1613fa7.png">
 
 4. NGO profile page
-<img width="1710" alt="Screenshot 2023-04-19 at 12 01 25 AM" src="https://user-images.githubusercontent.com/96867564/232873207-6096f6b2-2fae-4747-a03e-c631183a4289.png">
+<img width="1710" alt="Screenshot 2023-04-19 at 12 01 25 AM" src="https://user-images.githubusercontent.com/96867564/232874976-bea5b67c-6af5-4c5c-aa51-17fe7cc894df.png">
 <img width="1710" alt="Screenshot 2023-04-19 at 12 01 38 AM" src="https://user-images.githubusercontent.com/96867564/232873256-5ecc6227-f5e7-441b-96df-42984410093e.png">
 
 5. Donor profile page
