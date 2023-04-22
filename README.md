@@ -52,5 +52,5 @@ This Web app targets two categories of users: Donors and NGOs.
 ## Ongoing project
 
 # 🤝 Collaborators
-Yuvrajsinh04
+
 
