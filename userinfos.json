@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6435b6959319a5b9f410ee2d"
+  },
+  "username": "yuvrajsinh",
+  "email": "21cs004@charusat.edu.in",
+  "pass": "123@Test",
+  "__v": 0,
+  "image": "profile.png"
+},{
+  "_id": {
+    "$oid": "6435cde7dda8cd5d70cda862"
+  },
+  "username": "yuvraj",
+  "email": "yuvrajsinhbodana@gmail.com",
+  "pass": "123@Test",
+  "image": "profile.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64362fbb8b1e4b5019762497"
+  },
+  "username": "Heli",
+  "email": "21cs017@charusat.edu.in",
+  "pass": "123@Test",
+  "image": "profile.png",
+  "__v": 0
+}]
